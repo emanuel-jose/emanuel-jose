@@ -10,5 +10,5 @@ Estou desenvolvendo minhas habilidades para me tornar um FullStack Developer.
   📖 Aprendendo a programar no ambiente Web<br>
   💻 Conhecimento em Python<br>
   👨‍💻 Desenvolvendo com JavaScript no front e Python/NodeJS no back<br>
-  📧 Entre em contato: [Linkedin](https://www.linkedin.com/in/emanuel-jose/) | emanuel.gotstark@gmail.com
+  📧 Entre em contato: [Linkedin](https://www.linkedin.com/in/emanueljose/) | emanuel.gotstark@gmail.com
   
