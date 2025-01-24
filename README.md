@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Olá, sou Emanuel José, programador há mais de 3 anos, nascido e criado em São Paulo capital, especialista em `React` e `Typescript`, apaixonado por programação e games, meu objetivo é me tornar um programador de renome no mundo com uma marca própria e um produto de qualidade, tenho um canal no Youtube "[NoseTrix](https://www.youtube.com/@nosetrixgames1056)" aonde gravo algumas gameplays insanas. Se quiser entrar em contato comigo através do meu email: `emanuel.devservicos@gmail.com`
+Olá, sou Emanuel José, programador há mais de 3 anos, nascido e criado em São Paulo capital, especialista em `React`, apaixonado por programação e games, meu objetivo é me tornar um programador de renome no mundo com uma marca própria e um produto de qualidade. Se quiser entrar em contato comigo através do meu email: `emanuel.devservicos@gmail.com`
 
 <p align="left">
     <a href="https://www.youtube.com/@nosetrixgames1056?sub_confirmation=1">
