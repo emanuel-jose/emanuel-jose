@@ -5,20 +5,20 @@
 Olá, sou Emanuel José, programador há mais de 3 anos, nascido e criado em São Paulo capital, especialista em `React`, apaixonado por programação e games, meu objetivo é me tornar um programador de renome no mundo com uma marca própria e um produto de qualidade. Se quiser entrar em contato comigo através do meu email: `emanuel.devservicos@gmail.com`
 
 <p align="left">
-    <a href="https://www.youtube.com/@nosetrixgames1056?sub_confirmation=1">
+<!--     <a href="https://www.youtube.com/@nosetrixgames1056?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkL209FoXBNb3Fgkiz1mIGg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
-    </a>
-    <a href="https://www.youtube.com/@nosetrixgames1056">
+    </a> -->
+<!--     <a href="https://www.youtube.com/@nosetrixgames1056">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCkL209FoXBNb3Fgkiz1mIGg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    </a> 
+    </a>  -->
     <a href="https://github.com/emanuel-jose?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
